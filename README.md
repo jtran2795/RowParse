@@ -9,4 +9,4 @@ To Use:
 3. If your parser does not use "YOU" to identify your character, change the playerNameToken variable in rowparse.html to what your parser uses to identify your character.
 
 Preview: 
-https://i.imgur.com/47c2ZNm.png?1
+https://i.imgur.com/yp0yYo5.png
