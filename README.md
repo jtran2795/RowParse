@@ -1,7 +1,7 @@
 Features:
-Parses top 8 players and displays them in a horizontal fashion. Good for minimal HUD layouts.
-Automatically hides when combat is inactive.
-Based off of RainbowMage's base parsing overlay.
+- Parses top 8 players and displays them in a horizontal fashion. Good for minimal HUD layouts.
+- Automatically hides when combat is inactive.
+- Based off of RainbowMage's base parsing overlay.
 
 To Use:
 1. Download files and place them somewhere together.
